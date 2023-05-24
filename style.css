@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+h1 {
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+#box {
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 20%;
+    color: white;
+    font-family: 'Caveat', cursive;
+    text-align: center;
+}
+.peace-img {
+    border: 5px solid white;
+    width: 100%;
+}
